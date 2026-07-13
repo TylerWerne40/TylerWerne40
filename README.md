@@ -15,6 +15,7 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
+![HTML5](
 <p align="left">
   <!-- Frontend -->
   <img src="https://shields.io" alt="HTML5" />
@@ -50,3 +51,4 @@
     <img src="https://shields.io" alt="Twitter" />
   </a> -->
 </p>
+)
